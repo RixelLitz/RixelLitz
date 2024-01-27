@@ -8,7 +8,7 @@
 
 <h3 align="left">Social-Links:</h3>
 
-[![image](https://img.shields.io/badge/a-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rianbritto_/)
+[![image](https://img.shields.io/badge/redes-sociais-E4405F?style=for-the-badge&logo=&logoColor=white)](https://www.instagram.com/rianbritto_/)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rixellitz)
 [![image](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianbritto/)
 
