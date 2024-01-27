@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rian Britto Pereira</h1>
 
-<!--- 🔭 I’m currently working on <a href="https://github.com/joaopedrov0/nexum">Nexum</a>-->
-
-<!-- - 🌱 I’m currently learning **Node.js,** -->
-
 - 📫 How to reach me **contatorianbritto@gmail.com**
 
 <h3 align="left">All my social-links:</h3>
