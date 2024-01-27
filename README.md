@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **contatorianbritto@gmail.com**
 
-<h3 align="left">All my Social-Links:</h3>
+<h3 align="left">All my social-links:</h3>
 
 [![image](https://img.shields.io/badge/devlinks-E4405F?style=for-the-badge&logo=&logoColor=white)](https://dev-links-lake.vercel.app/)
 
