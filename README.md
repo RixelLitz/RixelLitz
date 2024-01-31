@@ -19,7 +19,7 @@
 <h3 align="left">Learning:</h3>
 
 [![image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![image](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=next&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![image](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=nextjs&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![image](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 [![card](https://github-readme-stats.vercel.app/api?username=rixellitz&theme=dark&show_icons=true)](https://github.com/rixellitz/)
