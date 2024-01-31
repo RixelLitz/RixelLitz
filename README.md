@@ -18,7 +18,7 @@
 
 <h3 align="left">Learning:</h3>
 
-[![image](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![image](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![image](https://img.shields.io/badge/NextJS-1572B6?style=for-the-badge&logo=typescript3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![image](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
